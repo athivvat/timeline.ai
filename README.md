@@ -1,3 +1,3 @@
 # Timeline AI
 
-The rise of intelligence
+The Birth of Artificial Intelligence
