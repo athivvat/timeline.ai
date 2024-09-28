@@ -1,3 +1,3 @@
-# Timeline AI
+# A Timeline AI
 
-The Birth of Artificial Intelligence
+The History of AI: A Timeline of Artificial Intelligence
